@@ -1,0 +1,6 @@
+,0,1,2,3,4
+0,file1.wav,perosn01,neutral,perosn02,fear
+1,file2.wav,perosn01,fear,perosn02,fear
+2,file3.wav,perosn01,neutral,perosn02,fear
+3,file4.wav,perosn01,fear,perosn02,fear
+4,file5.wav,perosn01,fear,perosn02,neutral
